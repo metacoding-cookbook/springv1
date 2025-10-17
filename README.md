@@ -1,6 +1,6 @@
 # SpringV1 블로그 프로젝트 (SSR)
 
-## intro (리플렉션션)
+## intro (리플렉션)
 
 https://github.com/metacoding-cookbook/springv1-intro.git
 
